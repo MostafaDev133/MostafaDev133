@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Your Name/Handle]! 👋
 
-<!--
-**MostafaDev133/MostafaDev133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Game Developer who loves bridging the gap between clean code, solid mechanics, and engaging visuals. 
 
-Here are some ideas to get you started:
+### 🛠️ What I do
+* Crafting games and interactive experiences
+* Exploring Machine Learning applications
+* Building Windows desktop applications using WPF
+* Designing intuitive user interfaces in Figma
+* Creating custom 2D art and animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+* **Languages:** C++, C#, Python
+* **Design & Art:** Figma, 2D Animation, Digital Illustration
+
+### 🌱 Currently Learning
+* Expanding my UI/UX knowledge and mastering my GitHub workflow!
+
+### 📫 How to reach me
+* [](https://github.com/MostafaDev133)
