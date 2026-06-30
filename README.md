@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name/Handle]! 👋
+# Hi there👋
 
 I am a Game Developer who loves bridging the gap between clean code, solid mechanics, and engaging visuals. 
 
